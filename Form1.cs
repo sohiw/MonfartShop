@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,7 +21,7 @@ namespace bot
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            Telegram.bot.token = "325389442:AAGvMUIsLIskKyXNZqPNnEytZoUd-rMZJCE";
+            Telegram.bot.token = " enter token here ";
             CheckForIllegalCrossThreadCalls = false;
             backgroundWorker1.RunWorkerAsync();
         }
