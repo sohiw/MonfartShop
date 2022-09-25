@@ -1,6 +1,6 @@
 # MonfartShop
 سورس ربات فروشگاه منفر به زبان سی شارپ نوشته شده است!
-
+سورس فقط داری فرانت اند هست و برای انجام اعمال فروشگاه مد نظر باید کدنویسی شود.
 
 # ادیت های مورد نیاز
 
@@ -21,5 +21,4 @@ Telegram.bot.Token = " enter token here ";
 نوشته شده توسط 
 
 
-[Soheyl Monfared](https://telegram.me/monfar)
-[Channel Of Telegram](https://telegram.me/devof)
+[Soheil JEi](https://telegram.me/GottSchlaft)
