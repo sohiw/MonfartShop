@@ -11,7 +11,7 @@
 Telegram.bot.Token = " enter token here ";
 
 # نجوه اجرا 
-فایل bot.exe را دانلود کرده و ان را اجرا کنید
+بعد از کلون کردن فایل bot.exe ر اجرا کنید
 ربات اجراخواهد شد
 
 برای اجرای ربات نیاز به اتصال اینترنت است!
@@ -21,4 +21,4 @@ Telegram.bot.Token = " enter token here ";
 نوشته شده توسط 
 
 
-[Soheil JEi](https://telegram.me/GottSchlaft)
+[Soheil Jei](https://telegram.me/GottSchlaft)
